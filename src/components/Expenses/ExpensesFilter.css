@@ -1,0 +1,21 @@
+.expenses-filter__control label {
+  color: white;
+  margin-right: 1rem;
+  padding: 0.5rem;
+}
+.expenses-filter__control select {
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  /* background-color: #d4f1f4; */
+  color: #05445e;
+  border: 1px solid white;
+}
+.expenses-filter__control select .option {
+  background-color: #d4f1f4;
+}
+
+.expenses-filter__control {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
