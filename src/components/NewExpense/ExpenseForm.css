@@ -8,7 +8,7 @@
 }
 
 .new-expense__control label {
-  font-weight: bold;
+  font-weight: 400;
   margin-bottom: 0.5rem;
   display: block;
 }
@@ -25,4 +25,7 @@
 
 .new-expense__actions {
   text-align: left;
+}
+.new-expense__actions button:first-child {
+  color: #05445e;
 }
