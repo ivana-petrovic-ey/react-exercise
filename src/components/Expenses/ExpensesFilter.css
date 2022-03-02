@@ -1,3 +1,7 @@
+.expenses-filter {
+  margin-bottom: 1rem;
+}
+
 .expenses-filter__control label {
   color: white;
   margin-right: 1rem;
